@@ -76,7 +76,7 @@ function SvgPointSelector() {
         style={{ border: "1px solid black", cursor: "crosshair" }}
       >
         <image
-          href="http://fileserver.eastzoo.xyz/files/tracing-app/f7772945-38a7-4a5b-8a34-4648df41c139.svg"
+          href="http://fileserver.components.kr/files/tracing-app/bb4e9687-c0eb-4f32-9c31-06c0dd86b10e.png"
           width="100%"
           height="100%"
         />
